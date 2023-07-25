@@ -3,31 +3,3 @@ title = "circom语言中文教程"
 authors = ["suyanlong"]
 language = "ch"
 src = "src"
-
-
-[rust]
-edition = "2018"
-
-[output.html.playground]
-editable = true
-line-numbers = true
-
-[output.html.code.hidelines]
-python = "~"
-
-[output.html]
-mathjax-support = true
-site-url = "/circom/"
-git-repository-url = "https://github.com/suyanlong/circom-Language-ch"
-edit-url-template = "https://github.com/suyanlong/circom-Language-ch/{path}"
-
-
-[output.html.search]
-limit-results = 20
-use-boolean-and = true
-boost-title = 2
-boost-hierarchy = 2
-boost-paragraph = 1
-expand = true
-heading-split-level = 2
-
