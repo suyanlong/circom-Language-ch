@@ -19,7 +19,7 @@ python = "~"
 mathjax-support = true
 site-url = "/circom/"
 git-repository-url = "https://github.com/suyanlong/circom-Language-ch"
-edit-url-template = "https://github.com/suyanlong/circom-Language-ch"
+edit-url-template = "https://github.com/suyanlong/circom-Language-ch/{path}"
 
 
 [output.html.search]
