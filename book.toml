@@ -1,0 +1,15 @@
+[book]
+title = "circom语言中文教程"
+authors = ["suyanlong"]
+language = "ch"
+src = "src"
+
+
+[rust]
+edition = "2018"
+
+
+[output.html]
+mathjax-support = true
+site-url = "/circom/"
+
