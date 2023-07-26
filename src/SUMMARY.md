@@ -19,8 +19,12 @@
 - [语法](./syntax/README.md)
   - [注释](./syntax/Comment.md)
 
-
-
+- [运算符](./basicOperators.md)
+- [约束生成](./constraintGeneration.md)
+- [流程控制](./controlFlow.md)
+- [数据类型](./dataType.md)
+- [作用域](./scoping.md)
+- 
 
 
 
