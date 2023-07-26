@@ -24,9 +24,10 @@
 - [流程控制](./controlFlow.md)
 - [数据类型](./dataType.md)
 - [作用域](./scoping.md)
-- 
 
-
+- [circom2.1.0新特性](./new-features-cirom2.1/README.md)
+  - [元组和匿名组件](./new-features-cirom2.1/tuplesAndAnonymousComponents.md)
+  - [标签](./new-features-cirom2.1/tags.md)
 
 
 
