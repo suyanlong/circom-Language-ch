@@ -18,6 +18,8 @@
 
 - [语法](./syntax/README.md)
   - [注释](./syntax/Comment.md)
+  - [标识符](./syntax/Identifiers.md)
+  - [关键字](./syntax/Keywords.md)
 
 - [运算符](./basicOperators.md)
 - [约束生成](./constraintGeneration.md)
