@@ -16,9 +16,8 @@
   - [包括](templates/Include.md)
   - [main](templates/mainComponent.md)
 
-
-
-
+- [语法](./syntax/README.md)
+  - [注释](./syntax/Comment.md)
 
 
 
