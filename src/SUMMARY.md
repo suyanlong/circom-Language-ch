@@ -31,7 +31,10 @@
   - [元组和匿名组件](./new-features-cirom2.1/tuplesAndAnonymousComponents.md)
   - [标签](./new-features-cirom2.1/tags.md)
 
-
+- [代码质量](./code-quality/README.md)
+  - [断言](./code-quality/assert.md)
+  - [调试](./code-quality/debug.md)
+  - [检测](./code-quality/inspect.md)
 
 -----------
 
