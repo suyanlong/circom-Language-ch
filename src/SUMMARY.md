@@ -17,7 +17,7 @@
   - [main](templates/mainComponent.md)
 
 - [语法](./syntax/README.md)
-  - [注释](./syntax/Comment.md)
+  - [注释](./syntax/Comment.md)   
   - [标识符](./syntax/Identifiers.md)
   - [关键字](./syntax/Keywords.md)
 
@@ -30,9 +30,6 @@
 - [circom2.1.0新特性](./new-features-cirom2.1/README.md)
   - [元组和匿名组件](./new-features-cirom2.1/tuplesAndAnonymousComponents.md)
   - [标签](./new-features-cirom2.1/tags.md)
-
-
-
 
 
 
